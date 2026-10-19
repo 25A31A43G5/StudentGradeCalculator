@@ -1,0 +1,2 @@
+Projet Name:StudentGradeCalculator
+Description:A simple and user-friendly Student Grade Calculator web application developed using Python and Streamlit. It allows users to enter student details and marks, automatically calculates the percentage, and displays the corresponding grade. This project demonstrates basic Python programming, data handling with Pandas, and web application development using Streamlit.
